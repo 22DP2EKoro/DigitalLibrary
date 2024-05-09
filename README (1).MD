@@ -7,3 +7,4 @@ https://replit.com/@ek00339/biblioteka2
 2. Programma tika izstrādāta "Replit" vietnē, lai būtu iespēja dalīt projektu ar grupas biedru.
 3. Atverot programmu, jānospiež "Run" poga.
 4. Lietotājam būs iespēja darboties ar lietojumprogrammu. Parādisies tādas funkcijas kā reģistrācija un ielogošanās. Tālāk programma darbosies pēc lietotāja izvēlētām darbībām. 
+5. Ir izstrādāta arī atsevišķa koda daļa administratoram, kurš, ielogojoties ar iepriekš izstrādātu lietotājvārdu un paroli, varēs veikt tādas darbības, kas nav pieejamas parastam lietotājam.
